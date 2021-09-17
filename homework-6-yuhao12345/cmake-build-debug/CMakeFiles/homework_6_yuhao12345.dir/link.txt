@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/homework_6_yuhao12345.dir/main.c.o CMakeFiles/homework_6_yuhao12345.dir/graph.c.o CMakeFiles/homework_6_yuhao12345.dir/heap.c.o CMakeFiles/homework_6_yuhao12345.dir/timer.c.o -o homework_6_yuhao12345 

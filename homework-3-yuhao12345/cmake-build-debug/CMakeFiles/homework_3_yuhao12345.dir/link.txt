@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/homework_3_yuhao12345.dir/Barnes-Hut.c.o -o homework_3_yuhao12345  -lm 

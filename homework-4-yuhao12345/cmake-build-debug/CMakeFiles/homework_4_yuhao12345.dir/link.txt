@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/homework_4_yuhao12345.dir/method3_multiplesearch.c.o -o homework_4_yuhao12345 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/method1_3.h
+string.h
+-
+assert.h
+-
+stdio.h
+-
+
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/method3_multiplesearch.c
+stdlib.h
+-
+method1_3.h
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/method1_3.h
+timer.h
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/timer.h
+
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/timer.h
+stdlib.h
+-
+sys/time.h
+-
+

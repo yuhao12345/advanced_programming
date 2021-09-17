@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/github/advanced_prog/homework-3-yuhao12345/Barnes-Hut.c
+stdio.h
+-
+stdlib.h
+-
+timer.h
+/mnt/e/github/advanced_prog/homework-3-yuhao12345/timer.h
+random_particle.h
+/mnt/e/github/advanced_prog/homework-3-yuhao12345/random_particle.h
+
+/mnt/e/github/advanced_prog/homework-3-yuhao12345/random_particle.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/e/github/advanced_prog/homework-3-yuhao12345/timer.h
+stdlib.h
+-
+sys/time.h
+-
+

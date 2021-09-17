@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/graph.h
+
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/heap.h
+assert.h
+-
+
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+graph.h
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/graph.h
+heap.h
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/heap.h
+timer.h
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/timer.h
+omp.h
+-
+
+/mnt/e/github/advanced_prog/homework-6-yuhao12345/timer.h
+stdlib.h
+-
+sys/time.h
+-
+

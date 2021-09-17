@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/e/github/advanced_prog/homework-5-yuhao12345
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/e/github/advanced_prog/homework-5-yuhao12345/cmake-build-debug

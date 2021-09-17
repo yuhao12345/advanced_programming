@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/github/advanced_prog/final/encode_decode.h
+
+/mnt/e/github/advanced_prog/final/heap.h
+
+/mnt/e/github/advanced_prog/final/main_test.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+heap.h
+/mnt/e/github/advanced_prog/final/heap.h
+encode_decode.h
+/mnt/e/github/advanced_prog/final/encode_decode.h
+assert.h
+-
+

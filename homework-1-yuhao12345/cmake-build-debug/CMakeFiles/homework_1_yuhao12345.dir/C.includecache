@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/github/advanced_prog/homework-1-yuhao12345/list.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/e/github/advanced_prog/homework-1-yuhao12345/test_list2.c
+list.h
+/mnt/e/github/advanced_prog/homework-1-yuhao12345/list.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+

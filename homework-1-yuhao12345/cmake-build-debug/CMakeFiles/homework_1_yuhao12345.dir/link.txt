@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/homework_1_yuhao12345.dir/test_list2.c.o CMakeFiles/homework_1_yuhao12345.dir/list.c.o -o homework_1_yuhao12345  -lm 

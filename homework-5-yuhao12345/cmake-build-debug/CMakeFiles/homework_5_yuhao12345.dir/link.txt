@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/homework_5_yuhao12345.dir/uncompress.c.o CMakeFiles/homework_5_yuhao12345.dir/LinkedList.c.o CMakeFiles/homework_5_yuhao12345.dir/timer.c.o CMakeFiles/homework_5_yuhao12345.dir/BSTree.c.o CMakeFiles/homework_5_yuhao12345.dir/dictionary.c.o CMakeFiles/homework_5_yuhao12345.dir/HashTable.c.o -o homework_5_yuhao12345 

@@ -1,0 +1,3 @@
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/github/advanced_prog/homework-4-yuhao12345/cmake-build-debug/CMakeFiles/homework_4_yuhao12345.dir
